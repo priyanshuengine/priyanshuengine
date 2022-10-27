@@ -12,8 +12,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=priyanshuengine&theme=onedark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshuengine&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# Hacktober Fest
-![][![@priyanshuengineer's Holopin board](https://holopin.me/priyanshuengineer)](https://holopin.io/@priyanshuengineer)
+# Hacktoberfest Badges
+[![@priyanshuengineer's Holopin board](https://holopin.me/priyanshuengineer)](https://holopin.io/@priyanshuengineer)
 
 
 ### ✍️ Random Dev Quote
