@@ -1,5 +1,5 @@
 # 💫 About Me:
- I'm <a href="https://priyanshuengine.github.io/">Priyanshu Chaturvedi</a>, currently pursuing my B.Tech degree in Computer Science & Engineering from Asansol Engineering College. I am a Web Development enthusiast. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me.
+ I'm <a href="https://priyanshume.netlify.app/">Priyanshu Chaturvedi</a>, currently pursuing my B.Tech degree in Computer Science & Engineering from Asansol Engineering College. I am a Web Development enthusiast. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me.
 
 
 ## 🌐 Socials:
